@@ -1,0 +1,94 @@
+.container {
+    width: 800px;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Width percentages and negative margins */
+
+/*.image-container {
+    width: 30%;
+    margin-right:-4px;
+    min-width: 150px;
+}
+
+.mission-description {
+    width: 70%;
+    margin-left:-4px;
+}*/
+
+/* Floating */
+
+/*.image-container {
+    width: 30%;
+    float: left;
+    clear: both;
+}
+
+.mission-description {
+    width: 70%;
+    float: left;
+}*/
+
+/* Position: absolute - sit on top of margin or padding */
+
+/*.image-container {
+    width: 200px;
+    position: absolute;
+}
+
+.mission-description {
+    margin-left: 200px;
+    width: 80%;
+}*/
+
+/* Display: table */
+
+/*.mission {
+    display: table-row;
+}
+
+.mission .image-container {
+    display: table-cell;
+    padding-top: 20px;
+}
+
+.mission .mission-description {
+    display: table-cell;
+    padding-left: 20px;
+    padding-top: 20px;
+}*/
+
+/* Float right */
+/*.image-container {
+    width: 30%;
+    float: left;
+    clear: both;
+}
+
+.mission-description {
+    width: 50%;
+    float: right;
+}*/
+
+/* Floating to the other side! */
+
+/*.image-container {
+    width: 25%;
+    float: right;
+    clear: both;
+}
+
+.mission-description {
+    width: 70%;
+    float: left;
+}*/
+
+
+/* Picture on top */
+
+/*.image-container {
+    display: block;
+    text-align: left;
+}*/
